@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/pbol377/PNewbieAward
+branches:
+- master
+projects:
+  PNewbieAward_v1.0:
+    path: PNewbieAward_v1.0/
+  PNewbieAward:
+    path: ""
+...
